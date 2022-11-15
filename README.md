@@ -5,20 +5,20 @@
 
 - 🎨 Мой самый активный пет проект: [Music X - музыкальный плеер ВКонтакте](https://t.me/MusicXPlayer)
 
-### Языки на которых я пишу:
+### ❤️‍🔥 Языки на которых я пишу:
 
 <div style="display: inline-block;">
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=C Sharp&logoColor=fff"/>
 </div>
 
-### Мои социальные сети:
+### 🦊 Мои социальные сети:
 
 <a href="https://vk.com/fooxboy" target="_blank"><img src="https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=VK&logoColor=fff"/></a>
 <a href="https://t.me/fooxboy" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=Telegram&logoColor=fff"/></a>
 
 <br>
 
-### GitHub Statistics ✨
+### 💭 Статистика github
 
 ![Статистика](https://github-readme-stats.vercel.app/api?username=Fooxboy&show_icons=true&theme=github_dark)
 
