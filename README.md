@@ -11,12 +11,27 @@
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=C Sharp&logoColor=fff"/>
 </div>
 
+### ⚙️ Мой стек и фреймверки:
+- 🖌️ WPF 
+- 🔥 MAUI
+- 💀 UWP
+- 💪 ASP Net Core
+- 📶 SignalR
+- 🐘 PostgreSQL
+- 🤪 MS Sql
+
+### 🦄 Системы управления исходным кодом и всякие бизнес штуки с которым я работал:
+- 🦊 GitLab
+- ❤️‍🔥 GitHub
+- 🌈 AzureDevOps 
+- 🤪 Jira
+- 🐌 Confluence
+- 💩 Битрикс 24
+
 ### 🦊 Мои социальные сети:
 
 <a href="https://vk.com/fooxboy" target="_blank"><img src="https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=VK&logoColor=fff"/></a>
 <a href="https://t.me/fooxboy" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=Telegram&logoColor=fff"/></a>
-
-<br>
 
 ### 💭 Статистика github
 
